@@ -1,8 +1,8 @@
 {
-  "name": "Getting Started Example",
+  "name": "VismaBareBedre",
   "version": "1.0",
-  "description": "Build an Extension!",
-  "permissions": ["storage"],
+  "description": "Utvider funksjonaliteteten til visma inschool",
+  "permissions": ["declarativeContent", "storage"],
   "background": {
     "scripts": ["background.js"],
     "persistent": false
@@ -10,11 +10,11 @@
   "page_action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "16": "images/get_started16.png"
+      "16": "images/Vismabarebedre16.png"
     }
   },
   "icons": {
-    "16": "images/get_started16.png"
+    "16": "images/Vismabarebedre16.png"
   },
   "manifest_version": 2
 }
