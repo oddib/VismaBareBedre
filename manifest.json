@@ -10,11 +10,13 @@
   "page_action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "16": "images/Vismabarebedre16.png"
+      "16": "images/Vismabarebedre16.png",
+      "32": "images/Vismabarebedre32.png"
     }
   },
   "icons": {
-    "16": "images/Vismabarebedre16.png"
+    "16": "images/Vismabarebedre16.png",
+    "32": "images/Vismabarebedre32.png"
   },
   "manifest_version": 2
 }
