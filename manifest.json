@@ -3,6 +3,7 @@
   "version": "1.0",
   "description": "Utvider funksjonaliteteten til visma inschool",
   "permissions": ["declarativeContent", "storage"],
+  "options_page": "options.html",
   "background": {
     "scripts": ["background.js"],
     "persistent": false
